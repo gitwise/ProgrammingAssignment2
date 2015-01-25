@@ -1,5 +1,5 @@
 ## special matrix which has a cache of its inverse.
-## the return type is a list containing
+## the return type is a list containing.
 ## set and get accessor functions for the matrix
 ## set and get accessor functions for the inverse of the matrix
 
